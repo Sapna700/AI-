@@ -1,9 +1,27 @@
-# Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence of humans and other animals. Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs.
+Knowva is an AI-powered learning platform that helps users learn from their own PDFs, notes, and study materials using Generative AI and RAG.
 
-AI applications include advanced web search engines (e.g., Google Search), recommendation systems (used by YouTube, Amazon, and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Waymo), generative or creative tools (ChatGPT and AI art), automated decision-making, and competing at the highest level in strategic game systems (such as chess and Go).
+The README should feel like a real-world startup/open-source project, not like a basic college project.
 
-As machines become increasingly capable, tasks considered to require "intelligence" are often removed from the definition of AI, a phenomenon known as the AI effect. For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology.
+Please include:
 
-Artificial intelligence was founded as an academic discipline in 1956, and in the years since it has experienced several waves of optimism, followed by disappointment and the loss of funding (known as an "AI winter"), followed by new approaches, success, and renewed funding. AI research has tried and discarded many different approaches, including simulating the brain, modeling human problem solving, formal logic, large databases of knowledge, and imitating animal behavior. In the first decades of the 21st century, highly mathematical and statistical machine learning has dominated the field, and this technique has proved highly successful, helping to solve many challenging problems throughout industry and academia.
+A strong project title and tagline: ‘Think. Learn. Evolve.’
+A short, clear introduction explaining what Knowva does
+The problem Knowva solves
+Key features
+How the system works
+A simple architecture/workflow diagram
+Technologies and GenAI concepts used
+Project structure
+Installation and setup instructions
+Environment variables
+How to run the project
+Example use cases
+Screenshots/demo section placeholders
+Development roadmap with future features
+Future scope such as memory, personalization, AI agents, voice, and multimodal AI
+Contribution guidelines
+License
 
-The various sub-fields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and the ability to move and manipulate objects. General intelligence (the ability to solve an arbitrary problem) is among the field's long-term goals. To solve these problems, AI researchers have adapted and integrated a wide range of problem-solving techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, probability, and economics. AI also draws upon computer science, psychology, linguistics, philosophy, and many other fields.
+Keep the writing concise, visually attractive, and easy to understand. Use appropriate emojis, headings, tables, and code blocks, but don't overdo them.
+
+The README should clearly communicate that Knowva is an evolving Generative AI learning system, not just a PDF chatbot.”**
